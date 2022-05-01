@@ -1,0 +1,13 @@
+package globals
+
+val TILE_LENGTH = 40.0
+
+val TILE_INNER_RATIO = 0.95
+
+val TILE_PADDING = (1 - 0.95) * TILE_LENGTH
+
+val THICK_SEPARATION_LINE = 5
+
+
+val BUTTON_WIDTH = 40.0
+val BUTTON_HEIGHT = 40.0
